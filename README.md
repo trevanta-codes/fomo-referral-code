@@ -27,8 +27,6 @@ Only the fee. Trades are charged 0.45% instead of the standard 0.50%. Nothing el
 
 ## Quick FAQ
 
-**Is it called an invite code or a referral code?** People use both names. It is the same code in the same box.
-
 **Is the discount guaranteed forever?** FOMO sets its own fees and can change them. The figure above is what applied as of November 2026.
 
 ---
